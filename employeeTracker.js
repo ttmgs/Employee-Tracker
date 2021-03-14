@@ -24,7 +24,7 @@ var connection = mysql.createConnection({
   user: "root",
 
   // Your password
-  password: "Codysql3!3",
+  password: "Windsor2000!!",
   database: "employee_trackerdb"
 });
 
